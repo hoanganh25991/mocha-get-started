@@ -1,0 +1,19 @@
+{
+  "name": "mocha-get-started",
+  "version": "1.0.0",
+  "description": "play with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "get",
+    "started"
+  ],
+  "author": "Anh Le Hoang",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.0.2"
+  }
+}
